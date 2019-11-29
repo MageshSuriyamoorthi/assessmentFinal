@@ -1,0 +1,1209 @@
+2019-11-29 11:03:45,322  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:04:01,511  INFO [main] config files:17 - URL has been initiated in the browser
+2019-11-29 11:04:01,570  INFO [main] config files:26 - STEP 1:USER hasn't been landed into the home page.
+2019-11-29 11:10:47,533  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:11:01,023  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 11:11:01,088  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:12:08,647  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:12:18,951  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 11:12:19,017  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:12:19,035  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 11:12:19,036  INFO [main] config files:29 - STEP 1:USER hasn't been landed into the home page.
+2019-11-29 11:21:53,514  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:22:04,497  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 11:22:04,567  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:22:06,012  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 11:22:06,014  INFO [main] config files:29 - STEP 1:USER hasn't been landed into the home page.
+2019-11-29 11:22:50,147  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:22:50,264  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:22:51,390  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 11:28:33,308  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:28:33,432  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:28:34,611  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 11:30:12,107  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:30:12,246  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:30:13,390  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 11:30:59,932  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:31:00,024  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:31:01,093  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 11:32:15,107  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 11:32:15,209  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 11:32:16,116  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:02:52,174  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:03:00,767  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 12:03:00,836  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:03:02,453  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 12:03:02,453  INFO [main] config files:29 - STEP 1:USER hasn't been landed into the home page.
+2019-11-29 12:03:02,649  INFO [main] config files:38 - In Default tab is selected 
+2019-11-29 12:05:35,035  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:05:45,330  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 12:05:45,386  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:05:46,635  INFO [main] Log4j:26 - The value is: Title
+2019-11-29 12:05:46,635  INFO [main] config files:29 - STEP 1:USER hasn't been landed into the home page.
+2019-11-29 12:05:46,788  INFO [main] config files:38 - In Default tab is selected 
+2019-11-29 12:07:04,862  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:07:19,656  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 12:07:19,692  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:07:21,170  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:07:21,175  INFO [main] config files:27 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:07:21,315  INFO [main] config files:38 - In Default tab is selected 
+2019-11-29 12:12:54,893  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:13:04,663  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 12:13:04,747  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:13:05,997  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:13:06,000  INFO [main] config files:27 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:13:06,155  INFO [main] config files:38 - In Default tab is selected 
+2019-11-29 12:15:07,685  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:15:17,311  INFO [main] config files:20 - URL has been initiated in the browser
+2019-11-29 12:15:17,428  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:15:18,853  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:15:18,853  INFO [main] config files:27 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:15:19,005  INFO [main] config files:38 - In Default tab is selected 
+2019-11-29 12:17:45,037  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:17:54,498  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:17:54,555  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:17:56,177  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:17:56,181  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:17:56,348  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:20:29,103  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:20:38,046  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:20:38,115  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:20:39,563  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:20:39,567  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:20:39,763  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:22:31,461  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:22:42,748  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:22:42,903  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:22:44,704  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:22:44,704  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:22:44,896  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:24:55,980  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:25:06,201  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:25:06,259  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:25:07,612  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:25:07,612  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:25:07,774  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:25:51,084  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:26:01,789  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:26:01,843  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:26:03,430  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:26:03,432  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:26:03,595  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:26:41,080  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:26:51,192  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:26:51,281  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:26:52,830  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:26:52,830  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:26:52,970  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:30:35,210  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:30:45,213  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:30:45,272  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:30:46,733  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:30:46,733  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:30:46,887  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:31:20,775  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:31:30,315  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:31:30,449  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:31:31,844  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:31:31,845  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:31:32,006  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:32:07,539  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:32:17,771  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:32:17,852  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:32:19,416  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:32:19,420  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:32:19,570  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:39:57,587  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:40:13,266  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:40:13,354  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:40:15,011  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:40:15,011  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:40:15,190  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:40:45,734  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:40:56,209  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:40:56,281  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:40:57,464  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:40:57,464  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:40:57,604  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:42:10,015  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:42:20,153  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:42:20,209  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:42:21,762  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:42:21,768  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:42:21,940  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:42:56,588  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:43:07,591  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:43:07,679  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:43:09,497  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:43:09,497  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:43:09,672  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:47:46,739  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:47:57,054  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:47:57,113  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:47:59,014  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:47:59,014  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:47:59,214  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:51:03,270  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:51:13,341  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:51:13,450  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:51:14,900  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:51:14,900  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:51:15,055  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:52:24,104  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:52:34,510  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:52:34,599  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:52:36,092  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:52:36,092  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:52:36,239  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:54:46,926  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:54:56,887  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:54:56,929  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:54:58,261  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:54:58,261  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:54:58,458  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 12:55:49,139  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 12:56:00,568  INFO [main] config files:21 - URL has been initiated in the browser
+2019-11-29 12:56:00,623  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 12:56:01,804  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 12:56:01,804  INFO [main] config files:28 - STEP 1: USER has been landed into the home page.
+2019-11-29 12:56:01,938  INFO [main] config files:39 - In Default tab is selected 
+2019-11-29 13:07:22,826  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:07:33,565  INFO [main] config files:22 - URL has been initiated in the browser
+2019-11-29 13:07:33,622  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:07:35,408  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:07:35,408  INFO [main] config files:29 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:07:35,575  INFO [main] config files:40 - In Default tab is selected 
+2019-11-29 13:08:58,977  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:09:08,391  INFO [main] config files:22 - URL has been initiated in the browser
+2019-11-29 13:09:08,469  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:09:09,689  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:09:09,689  INFO [main] config files:29 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:09:09,837  INFO [main] config files:40 - In Default tab is selected 
+2019-11-29 13:41:44,289  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:41:56,415  INFO [main] config files:23 - URL has been initiated in the browser
+2019-11-29 13:41:56,496  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:41:57,819  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:41:57,819  INFO [main] config files:30 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:41:58,014  INFO [main] config files:41 - In Default tab is selected 
+2019-11-29 13:41:58,260  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:41:58,335  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 13:41:58,823  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:14,136  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:48:23,777  INFO [main] config files:24 - URL has been initiated in the browser
+2019-11-29 13:48:23,829  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:25,225  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:48:25,225  INFO [main] config files:31 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:48:25,395  INFO [main] config files:42 - In Default tab is selected 
+2019-11-29 13:48:25,612  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:25,679  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 13:48:26,076  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:26,136  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 13:48:26,554  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:26,606  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 13:48:27,002  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:48:27,071  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 13:49:03,052  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:49:10,923  INFO [main] config files:24 - URL has been initiated in the browser
+2019-11-29 13:49:11,055  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:49:12,662  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:49:12,662  INFO [main] config files:31 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:49:12,876  INFO [main] config files:42 - In Default tab is selected 
+2019-11-29 13:49:13,181  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:49:13,256  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 13:49:13,846  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:49:13,928  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 13:49:14,338  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:49:14,395  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 13:49:14,805  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:49:14,857  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 13:53:35,259  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:53:45,960  INFO [main] config files:24 - URL has been initiated in the browser
+2019-11-29 13:53:46,024  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:53:47,205  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:53:47,205  INFO [main] config files:31 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:53:47,340  INFO [main] config files:42 - In Default tab is selected 
+2019-11-29 13:53:47,528  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:53:47,598  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 13:53:47,963  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:53:48,024  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 13:53:48,343  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:53:48,400  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 13:53:48,744  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:53:48,798  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 13:54:33,169  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 13:54:42,192  INFO [main] config files:24 - URL has been initiated in the browser
+2019-11-29 13:54:42,291  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:43,526  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 13:54:43,527  INFO [main] config files:31 - STEP 1: USER has been landed into the home page.
+2019-11-29 13:54:43,736  INFO [main] config files:42 - In Default tab is selected 
+2019-11-29 13:54:44,014  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:44,123  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 13:54:44,893  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:44,970  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 13:54:45,315  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:45,370  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 13:54:45,636  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:45,716  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 13:54:45,990  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 13:54:46,050  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:22:57,028  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:23:07,244  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:23:07,345  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:08,544  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:23:08,544  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:23:08,703  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:23:08,909  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:08,976  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:23:09,391  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:23:09,587  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:09,668  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 14:23:09,895  INFO [main] config files:59 - STEP 5: CheckIn date has been entered
+2019-11-29 14:23:10,026  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:10,088  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:23:10,281  INFO [main] config files:67 - STEP 6:CheckOut Date has been entered
+2019-11-29 14:23:10,428  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:10,500  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 14:23:11,084  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:11,141  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:23:11,640  INFO [main] config files:77 - STEP 7:Passengers list has been entered
+2019-11-29 14:23:11,936  INFO [main] config files:81 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 14:23:49,569  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:23:57,224  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:23:57,263  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:58,897  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:23:58,898  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:23:59,059  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:23:59,275  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:23:59,352  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:23:59,799  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:24:36,380  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:24:47,001  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:24:47,056  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:48,239  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:24:48,243  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:24:48,379  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:24:48,557  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:48,635  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:24:49,076  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:24:51,279  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:51,352  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 14:24:51,574  INFO [main] config files:61 - STEP 5: CheckIn date has been entered
+2019-11-29 14:24:51,673  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:51,743  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:24:51,948  INFO [main] config files:69 - STEP 6:CheckOut Date has been entered
+2019-11-29 14:24:52,038  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:52,114  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 14:24:52,427  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:24:52,483  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:24:52,796  INFO [main] config files:79 - STEP 7:Passengers list has been entered
+2019-11-29 14:25:54,379  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:26:04,154  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:26:04,226  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:05,439  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:26:05,439  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:26:05,595  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:26:05,781  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:05,867  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:26:06,243  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:26:08,488  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:08,558  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 14:26:08,785  INFO [main] config files:61 - STEP 5: CheckIn date has been entered
+2019-11-29 14:26:08,902  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:08,961  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:26:09,238  INFO [main] config files:69 - STEP 6:CheckOut Date has been entered
+2019-11-29 14:26:09,370  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:09,453  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 14:26:09,829  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:09,887  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:26:10,262  INFO [main] config files:79 - STEP 7:Passengers list has been entered
+2019-11-29 14:26:28,858  INFO [main] config files:83 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 14:26:28,917  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:26:28,946  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:26:28,946  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 14:26:59,148  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:27:08,945  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:27:09,003  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:10,341  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:27:10,342  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:27:10,518  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:27:10,875  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:10,962  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:27:11,395  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:27:13,563  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:13,635  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 14:27:13,852  INFO [main] config files:61 - STEP 5: CheckIn date has been entered
+2019-11-29 14:27:13,947  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:14,013  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:27:14,355  INFO [main] config files:69 - STEP 6:CheckOut Date has been entered
+2019-11-29 14:27:14,504  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:14,572  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 14:27:14,973  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:15,033  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:27:15,313  INFO [main] config files:79 - STEP 7:Passengers list has been entered
+2019-11-29 14:27:27,229  INFO [main] config files:83 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 14:27:27,286  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:27:27,335  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:27:27,340  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 14:27:57,835  INFO [main] config files:58 - CHROME DriverInitiated
+2019-11-29 14:28:11,015  INFO [main] config files:24 - STEP 1:URL has been initiated in the browser
+2019-11-29 14:28:11,091  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:12,252  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 14:28:12,252  INFO [main] config files:31 - STEP 2: USER has been landed into the home page.
+2019-11-29 14:28:12,392  INFO [main] config files:42 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 14:28:12,574  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:12,690  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:28:13,014  INFO [main] config files:51 - STEP 4:Destination Banglore has been entered
+2019-11-29 14:28:15,161  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:15,234  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 14:28:15,426  INFO [main] config files:61 - STEP 5: CheckIn date has been entered
+2019-11-29 14:28:15,512  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:15,567  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:28:15,854  INFO [main] config files:69 - STEP 6:CheckOut Date has been entered
+2019-11-29 14:28:15,986  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:16,060  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 14:28:16,606  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:16,681  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 14:28:16,969  INFO [main] config files:79 - STEP 7:Passengers list has been entered
+2019-11-29 14:28:29,089  INFO [main] config files:83 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 14:28:29,169  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 14:28:29,215  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 14:28:29,215  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:44:07,464  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 16:44:22,485  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 16:44:22,543  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:23,723  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 16:44:23,723  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 16:44:23,863  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 16:44:24,052  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:24,149  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:44:24,701  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 16:44:26,882  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:26,957  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 16:44:27,173  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 16:44:27,288  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:27,340  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:44:27,564  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 16:44:27,652  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:27,725  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 16:44:28,023  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:28,078  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:44:28,394  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 16:44:38,757  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 16:44:38,820  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:44:38,870  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:44:38,870  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:44:38,875  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:44:38,875  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 16:47:18,316  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 16:47:40,056  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 16:47:40,149  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:41,365  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 16:47:41,369  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 16:47:41,531  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 16:47:41,719  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:41,819  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:47:42,160  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 16:47:44,335  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:44,430  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 16:47:44,631  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 16:47:44,735  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:44,807  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:47:45,052  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 16:47:45,191  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:45,276  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 16:47:45,614  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:45,673  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:47:46,014  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 16:47:59,270  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 16:47:59,395  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:47:59,443  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:47:59,443  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:47:59,445  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:47:59,449  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 16:50:41,940  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 16:50:54,198  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 16:50:54,251  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:55,418  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 16:50:55,418  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 16:50:55,557  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 16:50:55,739  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:55,815  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:50:56,133  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 16:50:58,299  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:58,374  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 16:50:58,582  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 16:50:58,686  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:58,754  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:50:58,950  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 16:50:59,038  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:59,124  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 16:50:59,380  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:50:59,434  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:50:59,733  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 16:51:12,400  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 16:51:12,470  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:51:12,514  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:51:12,514  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:51:12,518  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:51:12,518  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 16:51:12,918  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:51:12,974  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 16:51:12,974  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:51:12,974  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:51:12,974  INFO [main] config files:99 - place has been validated
+2019-11-29 16:51:13,150  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:51:13,198  INFO [main] Log4j:26 - The value is: 09/12/2019
+2019-11-29 16:51:13,198  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:56:31,027  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 16:56:42,747  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 16:56:42,834  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:44,280  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 16:56:44,285  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 16:56:44,442  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 16:56:44,654  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:44,722  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:56:45,117  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 16:56:47,380  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:47,436  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 16:56:47,697  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 16:56:47,813  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:47,874  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:56:48,122  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 16:56:48,230  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:48,314  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 16:56:48,640  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:56:48,693  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:56:49,002  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 16:56:49,212  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 16:57:11,986  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 16:57:21,917  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 16:57:21,985  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:23,112  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 16:57:23,112  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 16:57:23,246  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 16:57:23,437  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:23,506  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:57:23,878  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 16:57:26,159  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:26,215  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 16:57:26,466  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 16:57:26,597  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:26,645  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:57:26,861  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 16:57:26,953  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:27,017  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 16:57:27,361  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:27,418  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 16:57:27,716  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 16:57:35,948  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 16:57:36,009  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:36,045  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 16:57:36,049  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:57:36,053  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:57:36,053  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 16:57:36,425  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:36,477  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 16:57:36,477  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 16:57:36,477  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 16:57:36,477  INFO [main] config files:99 - place has been validated
+2019-11-29 16:57:36,477  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 16:57:36,477  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 16:57:36,545  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:00:06,616  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:00:15,804  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:00:15,861  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:17,406  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:00:17,410  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:00:17,569  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:00:17,763  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:17,863  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:00:18,264  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:00:20,475  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:20,546  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:00:20,820  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:00:20,936  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:20,992  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:00:21,308  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:00:21,408  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:21,484  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:00:21,841  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:21,894  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:00:22,425  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:00:32,779  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:00:32,842  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:32,891  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:00:32,891  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:00:32,895  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:00:32,895  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:00:33,317  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:33,367  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:00:33,367  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:00:33,367  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:00:33,367  INFO [main] config files:99 - place has been validated
+2019-11-29 17:00:33,367  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:00:33,367  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:00:33,435  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:02:54,485  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:03:04,676  INFO [main] config files:25 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:03:04,727  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:06,153  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:03:06,157  INFO [main] config files:32 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:03:06,326  INFO [main] config files:43 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:03:06,527  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:06,626  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:03:07,056  INFO [main] config files:52 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:03:09,293  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:09,361  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:03:09,581  INFO [main] config files:62 - STEP 5: CheckIn date has been entered
+2019-11-29 17:03:09,694  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:09,758  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:03:09,987  INFO [main] config files:70 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:03:10,071  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:10,155  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:03:10,433  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:10,482  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:03:10,796  INFO [main] config files:80 - STEP 7:Passengers list has been entered
+2019-11-29 17:03:19,518  INFO [main] config files:84 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:03:19,593  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:19,641  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:03:19,641  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:03:19,645  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:03:19,645  INFO [main] config files:92 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:03:20,064  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:20,112  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:03:20,112  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:03:20,112  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:03:20,112  INFO [main] config files:98 - place has been validated
+2019-11-29 17:03:20,112  INFO [main] config files:100 - STEP 10:Modified search has been validated
+2019-11-29 17:03:20,112  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:03:20,196  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:04:05,673  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:04:25,551  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:04:30,321  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:04:45,281  INFO [main] config files:25 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:04:45,349  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:46,289  INFO [main] config files:25 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:04:46,516  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:47,613  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:04:47,613  INFO [main] config files:32 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:04:48,094  INFO [main] config files:43 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:04:48,465  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:48,581  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:04:48,732  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:04:48,732  INFO [main] config files:32 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:04:48,945  INFO [main] config files:43 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:04:49,229  INFO [main] config files:52 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:04:49,274  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:49,341  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:04:49,843  INFO [main] config files:52 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:04:51,392  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:51,461  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:04:51,760  INFO [main] config files:62 - STEP 5: CheckIn date has been entered
+2019-11-29 17:04:51,916  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:51,988  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:04:52,391  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:52,465  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:04:52,724  INFO [main] config files:70 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:04:52,916  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:53,004  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:04:53,028  INFO [main] config files:62 - STEP 5: CheckIn date has been entered
+2019-11-29 17:04:53,244  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:53,308  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:04:53,593  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:53,649  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:04:53,711  INFO [main] config files:70 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:04:53,933  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:54,024  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:04:54,476  INFO [main] config files:80 - STEP 7:Passengers list has been entered
+2019-11-29 17:04:54,943  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:04:55,016  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:04:55,596  INFO [main] config files:80 - STEP 7:Passengers list has been entered
+2019-11-29 17:05:06,375  INFO [main] config files:84 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:05:06,705  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:06,789  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:05:06,789  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:05:06,793  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:05:06,793  INFO [main] config files:92 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:05:07,729  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:07,781  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:05:07,781  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:05:07,781  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:05:07,781  INFO [main] config files:98 - place has been validated
+2019-11-29 17:05:07,781  INFO [main] config files:100 - STEP 10:Modified search has been validated
+2019-11-29 17:05:07,781  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:08,016  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:05:09,243  INFO [main] config files:84 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:05:09,382  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:09,433  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:05:09,438  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:05:09,441  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:05:09,441  INFO [main] config files:92 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:05:09,897  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:09,945  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:05:09,945  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:05:09,945  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:05:09,945  INFO [main] config files:98 - place has been validated
+2019-11-29 17:05:09,945  INFO [main] config files:100 - STEP 10:Modified search has been validated
+2019-11-29 17:05:09,945  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:05:10,017  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:07:17,651  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:07:28,629  INFO [main] config files:25 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:07:28,683  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:30,045  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:07:30,049  INFO [main] config files:32 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:07:30,187  INFO [main] config files:43 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:07:30,383  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:30,451  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:07:30,901  INFO [main] config files:52 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:07:33,147  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:33,214  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:07:33,443  INFO [main] config files:62 - STEP 5: CheckIn date has been entered
+2019-11-29 17:07:33,556  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:33,616  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:07:33,845  INFO [main] config files:70 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:07:33,929  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:34,003  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:07:34,288  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:34,341  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:07:34,638  INFO [main] config files:80 - STEP 7:Passengers list has been entered
+2019-11-29 17:07:43,280  INFO [main] config files:84 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:07:43,389  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:43,433  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:07:43,433  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:07:43,437  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:07:43,437  INFO [main] config files:92 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:07:43,853  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:43,909  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:07:43,909  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:07:43,909  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:07:43,909  INFO [main] config files:98 - place has been validated
+2019-11-29 17:07:43,909  INFO [main] config files:100 - STEP 10:Modified search has been validated
+2019-11-29 17:07:43,909  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:07:43,985  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:08:57,168  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:09:08,222  INFO [main] config files:25 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:09:08,281  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:09,548  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:09:09,551  INFO [main] config files:32 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:09:09,685  INFO [main] config files:43 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:09:09,889  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:10,005  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:09:10,331  INFO [main] config files:52 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:09:12,548  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:12,609  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:09:12,838  INFO [main] config files:62 - STEP 5: CheckIn date has been entered
+2019-11-29 17:09:12,938  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:13,006  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:09:13,238  INFO [main] config files:70 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:09:13,326  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:13,394  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:09:13,673  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:13,736  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:09:14,027  INFO [main] config files:80 - STEP 7:Passengers list has been entered
+2019-11-29 17:09:23,554  INFO [main] config files:84 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:09:23,650  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:23,698  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:09:23,702  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:09:23,706  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:09:23,706  INFO [main] config files:92 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:09:24,049  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:24,099  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:09:24,099  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:09:24,099  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:09:24,099  INFO [main] config files:98 - place has been validated
+2019-11-29 17:09:24,099  INFO [main] config files:100 - STEP 10:Modified search has been validated
+2019-11-29 17:09:24,099  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:09:24,183  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:10:23,030  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:10:32,519  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:10:32,611  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:33,969  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:10:33,973  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:10:34,132  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:10:34,336  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:34,405  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:10:34,796  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:10:36,993  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:37,052  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:10:37,337  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:10:37,477  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:37,532  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:10:37,828  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:10:37,923  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:37,992  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:10:38,312  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:38,364  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:10:38,633  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:10:47,305  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:10:47,378  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:47,422  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:10:47,422  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:10:47,426  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:10:47,426  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:10:47,827  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:47,883  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:10:47,883  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:10:47,883  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:10:47,883  INFO [main] config files:99 - place has been validated
+2019-11-29 17:10:47,883  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:10:47,883  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:10:47,967  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:11:38,820  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:11:49,606  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:11:49,691  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:11:51,186  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:11:51,186  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:11:51,411  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:11:51,632  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:11:51,718  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:11:52,075  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:11:54,211  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:11:54,289  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:11:54,448  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:11:54,531  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:11:54,586  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:11:54,801  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:11:54,891  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:11:54,951  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:12:49,953  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:12:59,249  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:12:59,324  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:01,411  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:13:01,412  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:13:01,625  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:13:02,000  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:02,108  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:13:02,785  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:13:04,950  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:05,020  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:13:05,271  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:13:05,384  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:05,437  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:13:05,641  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:13:05,740  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:05,816  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:13:06,274  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:06,330  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:13:06,961  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:13:15,807  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:13:15,873  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:15,904  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:13:15,904  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:13:15,920  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:13:15,920  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:13:16,292  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:16,349  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:13:16,349  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:13:16,349  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:13:16,350  INFO [main] config files:99 - place has been validated
+2019-11-29 17:13:16,350  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:13:16,350  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:16,441  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:13:40,898  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:13:49,733  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:13:49,863  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:51,414  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:13:51,415  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:13:51,572  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:13:51,848  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:51,942  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:13:52,542  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:13:54,790  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:54,856  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:13:55,089  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:13:55,203  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:55,264  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:13:55,613  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:13:55,728  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:55,802  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:13:56,175  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:13:56,226  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:13:56,621  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:14:06,393  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:14:06,443  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:14:06,490  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:14:06,490  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:14:06,490  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:14:06,490  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:14:07,023  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:14:07,074  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:14:07,074  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:14:07,075  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:14:07,075  INFO [main] config files:99 - place has been validated
+2019-11-29 17:14:07,075  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:14:07,076  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:14:07,132  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:14:49,994  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:15:00,367  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:15:00,428  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:01,905  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:15:01,906  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:15:02,068  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:15:02,286  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:02,358  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:15:02,777  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:15:05,000  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:05,063  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:15:05,300  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:15:05,407  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:05,465  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:15:05,681  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:15:05,780  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:05,853  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:15:06,239  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:06,314  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:15:06,615  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:15:15,192  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:15:15,294  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:15,343  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:15:15,343  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:15:15,348  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:15:15,349  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:15:15,713  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:15,762  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:15:15,762  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:15:15,763  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:15:15,763  INFO [main] config files:99 - place has been validated
+2019-11-29 17:15:15,763  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:15:15,764  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:15:15,873  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:16:39,484  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:16:49,467  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:16:49,557  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:50,916  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:16:50,916  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:16:51,065  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:16:51,235  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:51,337  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:16:51,666  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:16:53,881  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:53,943  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:16:54,130  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:16:54,242  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:54,317  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:16:54,587  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:16:54,684  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:54,758  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:16:55,043  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:16:55,100  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:16:55,410  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:17:04,625  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:17:04,754  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:17:04,785  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:17:04,785  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:17:04,807  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:17:04,807  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:17:05,337  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:17:05,380  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:17:05,380  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:17:05,381  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:17:05,381  INFO [main] config files:99 - place has been validated
+2019-11-29 17:17:05,381  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:17:05,381  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:17:05,474  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:21:57,638  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:22:08,564  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:22:08,671  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:10,345  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:22:10,345  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:22:10,523  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:22:10,759  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:10,833  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:22:11,240  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:22:13,397  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:13,481  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:22:13,687  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:22:13,797  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:13,855  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:22:14,072  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:22:14,150  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:14,225  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:22:14,552  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:14,614  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:22:14,886  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:22:26,830  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:22:26,926  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:26,973  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:22:26,989  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:22:26,989  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:22:26,989  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:22:27,516  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:27,565  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:22:27,565  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:22:27,565  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:22:27,566  INFO [main] config files:99 - place has been validated
+2019-11-29 17:22:27,566  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:22:27,566  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:22:27,657  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:26:15,087  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:26:28,279  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:26:28,333  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:30,299  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:26:30,304  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:26:30,610  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:26:31,244  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:31,343  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:26:31,888  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:26:34,173  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:34,269  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:26:34,562  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:26:34,695  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:34,822  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:26:35,204  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:26:35,331  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:35,412  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:26:36,031  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:36,092  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:26:36,575  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:26:49,939  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:26:50,207  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:50,260  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:26:50,261  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:26:50,266  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:26:50,267  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:26:51,356  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:51,403  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:26:51,403  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:26:51,404  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:26:51,404  INFO [main] config files:99 - place has been validated
+2019-11-29 17:26:51,405  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:26:51,406  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:26:51,522  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:27:42,704  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:27:55,636  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:27:55,734  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:27:58,593  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:27:58,593  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:27:58,993  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:27:59,510  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:27:59,624  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:28:00,285  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:28:02,527  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:02,598  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:28:02,965  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:28:03,142  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:03,211  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:28:03,573  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:28:03,702  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:03,782  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:28:04,381  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:04,443  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:28:05,335  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:28:17,722  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:28:17,931  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:17,982  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:28:17,985  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:28:17,991  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:28:17,991  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:28:18,447  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:18,500  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:28:18,501  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:28:18,501  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:28:18,501  INFO [main] config files:99 - place has been validated
+2019-11-29 17:28:18,502  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:28:18,502  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:28:18,593  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:30:18,885  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:30:35,614  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:30:35,661  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:37,656  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:30:37,658  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:30:37,925  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:30:38,330  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:38,428  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:30:39,056  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:30:41,322  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:41,399  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:30:41,765  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:30:41,892  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:41,959  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:30:42,381  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:30:42,548  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:42,602  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:30:43,168  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:43,226  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:30:43,756  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:30:53,826  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:30:53,952  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:54,011  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:30:54,011  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:30:54,017  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:30:54,017  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:30:54,525  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:54,583  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:30:54,583  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:30:54,583  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:30:54,584  INFO [main] config files:99 - place has been validated
+2019-11-29 17:30:54,584  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:30:54,585  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:30:54,730  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:35:43,235  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:35:56,424  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:35:56,679  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:35:59,509  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:35:59,509  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:35:59,750  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:36:00,029  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:00,135  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:36:00,897  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:36:03,178  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:03,252  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:36:03,783  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:36:04,013  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:04,076  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:36:04,449  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:36:04,643  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:04,700  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:36:05,148  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:05,207  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:36:05,614  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:36:18,772  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:36:18,943  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:18,999  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:36:19,000  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:36:19,004  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:36:19,005  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:36:19,695  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:19,765  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:36:19,766  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:36:19,766  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:36:19,767  INFO [main] config files:99 - place has been validated
+2019-11-29 17:36:19,767  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:36:19,767  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:36:19,879  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:46:56,009  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 17:47:07,683  INFO [main] config files:26 - STEP 1:URL has been initiated in the browser
+2019-11-29 17:47:07,729  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:09,301  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 17:47:09,302  INFO [main] config files:33 - STEP 2: USER has been landed into the home page.
+2019-11-29 17:47:09,516  INFO [main] config files:44 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 17:47:09,741  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:09,849  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:47:10,217  INFO [main] config files:53 - STEP 4:Destination Banglore has been entered
+2019-11-29 17:47:12,396  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:12,467  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 17:47:12,683  INFO [main] config files:63 - STEP 5: CheckIn date has been entered
+2019-11-29 17:47:12,792  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:12,856  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:47:13,086  INFO [main] config files:71 - STEP 6:CheckOut Date has been entered
+2019-11-29 17:47:13,182  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:13,270  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 17:47:13,559  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:13,614  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 17:47:13,903  INFO [main] config files:81 - STEP 7:Passengers list has been entered
+2019-11-29 17:47:21,646  INFO [main] config files:85 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 17:47:21,736  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:21,784  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 17:47:21,785  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:47:21,790  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:47:21,790  INFO [main] config files:93 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 17:47:22,322  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:22,373  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 17:47:22,374  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 17:47:22,374  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 17:47:22,374  INFO [main] config files:99 - place has been validated
+2019-11-29 17:47:22,374  INFO [main] config files:101 - STEP 10:Modified search has been validated
+2019-11-29 17:47:22,375  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 17:47:22,512  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 18:07:50,915  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 18:08:02,058  INFO [main] config files:32 - STEP 1:URL has been initiated in the browser
+2019-11-29 18:08:02,128  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:03,430  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 18:08:03,430  INFO [main] config files:39 - STEP 2: USER has been landed into the home page.
+2019-11-29 18:08:03,573  INFO [main] config files:50 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 18:08:03,781  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:03,893  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:08:04,251  INFO [main] config files:59 - STEP 4:Destination Banglore has been entered
+2019-11-29 18:08:06,488  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:06,583  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 18:08:06,816  INFO [main] config files:69 - STEP 5: CheckIn date has been entered
+2019-11-29 18:08:06,933  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:06,998  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:08:07,248  INFO [main] config files:77 - STEP 6:CheckOut Date has been entered
+2019-11-29 18:08:07,342  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:07,416  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 18:08:07,720  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:07,793  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:08:08,138  INFO [main] config files:87 - STEP 7:Passengers list has been entered
+2019-11-29 18:08:18,556  INFO [main] config files:91 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 18:08:18,632  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:18,680  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:08:18,681  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:08:18,686  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:08:18,687  INFO [main] config files:99 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 18:08:19,159  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:19,214  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 18:08:19,216  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:08:19,216  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:08:19,217  INFO [main] config files:105 - Place has been validated
+2019-11-29 18:08:19,502  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:08:19,555  INFO [main] Log4j:26 - The value is: 09/12/2019
+2019-11-29 18:08:19,555  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:09:52,121  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 18:10:03,036  INFO [main] config files:32 - STEP 1:URL has been initiated in the browser
+2019-11-29 18:10:03,084  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:04,483  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 18:10:04,483  INFO [main] config files:39 - STEP 2: USER has been landed into the home page.
+2019-11-29 18:10:04,639  INFO [main] config files:50 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 18:10:04,875  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:04,948  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:10:05,300  INFO [main] config files:59 - STEP 4:Destination Banglore has been entered
+2019-11-29 18:10:07,468  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:07,541  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 18:10:07,759  INFO [main] config files:69 - STEP 5: CheckIn date has been entered
+2019-11-29 18:10:07,855  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:07,916  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:10:08,173  INFO [main] config files:77 - STEP 6:CheckOut Date has been entered
+2019-11-29 18:10:08,273  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:08,347  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 18:10:08,642  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:08,697  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:10:09,007  INFO [main] config files:87 - STEP 7:Passengers list has been entered
+2019-11-29 18:10:23,291  INFO [main] config files:91 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 18:10:23,364  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:23,412  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:10:23,412  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:10:23,417  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:10:23,417  INFO [main] config files:99 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 18:10:23,834  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:23,888  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 18:10:23,888  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:10:23,889  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:10:23,889  INFO [main] config files:105 - Place has been validated
+2019-11-29 18:10:23,890  INFO [main] config files:107 - STEP 10:Modified search has been validated
+2019-11-29 18:10:23,890  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:10:23,979  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 18:11:48,418  INFO [main] config files:66 - CHROME DriverInitiated
+2019-11-29 18:12:00,323  INFO [main] config files:32 - STEP 1:URL has been initiated in the browser
+2019-11-29 18:12:00,398  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:01,728  INFO [main] Log4j:26 - The value is: PHPTRAVELS | Travel Technology Partner
+2019-11-29 18:12:01,728  INFO [main] config files:39 - STEP 2: USER has been landed into the home page.
+2019-11-29 18:12:01,865  INFO [main] config files:50 - STEP 3:In Default Hotels tab has been selected 
+2019-11-29 18:12:02,051  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:02,147  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:12:02,538  INFO [main] config files:59 - STEP 4:Destination Banglore has been entered
+2019-11-29 18:12:04,766  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:04,841  INFO [main] Log4j:26 - The value is: 10
+2019-11-29 18:12:05,053  INFO [main] config files:69 - STEP 5: CheckIn date has been entered
+2019-11-29 18:12:05,173  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:05,239  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:12:05,481  INFO [main] config files:77 - STEP 6:CheckOut Date has been entered
+2019-11-29 18:12:05,567  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:05,645  INFO [main] Log4j:26 - The value is: 4
+2019-11-29 18:12:05,953  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:06,007  INFO [main] Log4j:26 - The value is: 2
+2019-11-29 18:12:06,322  INFO [main] config files:87 - STEP 7:Passengers list has been entered
+2019-11-29 18:12:15,316  INFO [main] config files:91 - STEP 8:Search button has been clicked and navigated to home page
+2019-11-29 18:12:15,467  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:15,517  INFO [main] Log4j:26 - The value is: Bangalore
+2019-11-29 18:12:15,517  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:12:15,522  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:12:15,522  INFO [main] config files:99 - STEP 9: User has sucessfully redirected to the respective page.
+2019-11-29 18:12:16,005  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:16,070  INFO [main] Log4j:26 - The value is: india,bangalore
+2019-11-29 18:12:16,070  INFO [main] Log4j:26 - Assertion Starts
+2019-11-29 18:12:16,071  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-29 18:12:16,071  INFO [main] config files:105 - Place has been validated
+2019-11-29 18:12:16,072  INFO [main] config files:107 - STEP 10:Modified search has been validated
+2019-11-29 18:12:16,072  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-29 18:12:16,209  INFO [main] Log4j:26 - The value is: 10

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [assessment]">
+  <test thread-count="5" verbose="0" name="assessment(failed)">
+    <classes>
+      <class name="com.atmecs.phphotelbooking.testscript.PhpHotelBooking">
+        <methods>
+          <include name="searchAndBookHotel"/>
+          <include name="browserSelect"/>
+          <include name="browserQuit"/>
+          <include name="invokeUrl"/>
+        </methods>
+      </class> <!-- com.atmecs.phphotelbooking.testscript.PhpHotelBooking -->
+    </classes>
+  </test> <!-- assessment(failed) -->
+</suite> <!-- Failed suite [assessment] -->
