@@ -13,7 +13,7 @@
 		<extendreport.version>3.1.5</extendreport.version>
 		<testng.version>7.0.0</testng.version>
 		<log4j.version>1.2.17</log4j.version>
-		<common-io.version>2.6</common-io.version>
+		<common-io.version>2.7</common-io.version>
 		<mysql.version>8.1.0.jre8-preview</mysql.version>
 		<mysqljava.version>8.0.18</mysqljava.version>
 	</properties>
