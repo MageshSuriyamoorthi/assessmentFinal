@@ -15,7 +15,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<common-io.version>2.6</common-io.version>
 		<mysql.version>8.1.0.jre8-preview</mysql.version>
-		<mysqljava.version>8.0.18</mysqljava.version>
+		<mysqljava.version>8.0.28</mysqljava.version>
 	</properties>
 	<build>
 		<plugins>
